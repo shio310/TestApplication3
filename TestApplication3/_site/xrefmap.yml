@@ -1,0 +1,34 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: ClassLibrary
+  name: ClassLibrary
+  href: api/ClassLibrary.html
+  commentId: N:ClassLibrary
+  fullName: ClassLibrary
+  nameWithType: ClassLibrary
+- uid: ClassLibrary.Class1
+  name: Class1
+  href: api/ClassLibrary.Class1.html
+  commentId: T:ClassLibrary.Class1
+  fullName: ClassLibrary.Class1
+  nameWithType: Class1
+- uid: ClassLibrary.Class1.DoSomething(System.String)
+  name: DoSomething(String)
+  href: api/ClassLibrary.Class1.html#ClassLibrary_Class1_DoSomething_System_String_
+  commentId: M:ClassLibrary.Class1.DoSomething(System.String)
+  fullName: ClassLibrary.Class1.DoSomething(System.String)
+  nameWithType: Class1.DoSomething(String)
+- uid: ClassLibrary.Class1.DoSomething*
+  name: DoSomething
+  href: api/ClassLibrary.Class1.html#ClassLibrary_Class1_DoSomething_
+  commentId: Overload:ClassLibrary.Class1.DoSomething
+  isSpec: "True"
+  fullName: ClassLibrary.Class1.DoSomething
+  nameWithType: Class1.DoSomething
+- uid: ClassLibrary.Class1.someNumber
+  name: someNumber
+  href: api/ClassLibrary.Class1.html#ClassLibrary_Class1_someNumber
+  commentId: F:ClassLibrary.Class1.someNumber
+  fullName: ClassLibrary.Class1.someNumber
+  nameWithType: Class1.someNumber
